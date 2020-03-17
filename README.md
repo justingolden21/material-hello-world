@@ -25,3 +25,7 @@ https://google.github.io/material-design-icons/#icon-font-for-the-web
 https://material-components-web.appspot.com/text-field.html
 
 https://medium.com/dev-channel/getting-started-with-material-design-components-for-web-3cb30fbac7d8
+
+### colors:
+
+https://www.materialpalette.com/colors
